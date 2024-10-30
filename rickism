@@ -1,7 +1,7 @@
 {
   "title": "Rickism",
   "description": "Lookism parody based on the Globhara server",
-  "artist": "Park Tae-jun", "Ricky",
+  "artist": "Park Tae-jun",
   "author": "Ricky",
   "cover": "https://i.imgur.com/emY1ttP.png",
   "chapters": {
@@ -13,4 +13,4 @@
       },
       "last_updated": "1616368746"
     }
-  }
+  }}
